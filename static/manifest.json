@@ -1,0 +1,22 @@
+{
+    "short_name": "Mahjong",
+    "name": "Mahjong",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/maskable_icon.png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ],
+    "scope": "/",
+    "display": "minimal-ui",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "Mahjong Timer Progressive Web App"
+}
